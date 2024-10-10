@@ -15,3 +15,4 @@ $ (Dollar sign)
 👍
 ❤️
 😊
+[CLI commands](Docs/Cli.md)
